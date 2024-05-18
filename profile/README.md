@@ -9,3 +9,5 @@ Si es tu primera vez aquí, por favor no olvides visitar el área de bienvenida,
 
 ¡Agradecemos tu participación!    
 *Cónoce nuestro [código de conducta](https://github.com/Ciencia-Computacional-HIMFG/.github/blob/main/profile/CODE_OF_CONDUCT.md).*
+
+Aténtamente, [los miembros del grupo](https://github.com/Ciencia-Computacional-HIMFG/Miembros).
