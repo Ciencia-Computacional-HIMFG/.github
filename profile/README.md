@@ -7,5 +7,5 @@ Si es tu primera vez aquí, por favor no olvides visitar el área de bienvenida,
 - [Foro-Central](https://github.com/Ciencia-Computacional-HIMFG/Foro-Central)
 - [Próximos eventos](https://github.com/orgs/Ciencia-Computacional-HIMFG/discussions/2)
 
-¡Agradecemos tu participación!
-Conoce nuestro código de conducta.
+¡Agradecemos tu participación!    
+*Cónoce nuestro código de conducta.*
