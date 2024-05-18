@@ -16,4 +16,4 @@ Ejemplos de comportamiento que contribuyen a crear un ambiente positivo incluyen
 
 ## Cumplimiento
 
-Las instancias de comportamiento abusivo, acosador o inaceptable serán reprobadas por el grupo. Si la situación lo amerita, un comportamiento reiterado que viole este código de conducta conllevará una sanción o respuesta apropiada a las circunstancias adoptada de manera democrática.
+El comportamiento abusivo, acosador o irrespetuoso de un miembro será reprobado por el grupo. Si la situación lo amerita, actitudes y manifestaciones reiteradas que violen este código de conducta conllevarán una respuesta apropiada a las circunstancias adoptada de manera democrática por el grupo.
