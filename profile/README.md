@@ -8,4 +8,4 @@ Si es tu primera vez aquí, por favor no olvides visitar el área de bienvenida,
 - [Próximos eventos](https://github.com/orgs/Ciencia-Computacional-HIMFG/discussions/2)
 
 ¡Agradecemos tu participación!    
-*Cónoce nuestro código de conducta.*
+*Cónoce nuestro [código de conducta](https://github.com/Ciencia-Computacional-HIMFG/.github/blob/main/profile/CODE_OF_CONDUCT.md).*
