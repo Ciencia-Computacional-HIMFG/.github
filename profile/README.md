@@ -1,4 +1,4 @@
-# Grupo de Ciencia Computacional del HIMFG
+# Mensaje de Bienvenida
 
 ¡El Grupo de Ciencia Computacional del Hospital Infantil de México Federico Gómez - Instituto Nacional de Salud te da la bienvenida a su plataforma en GitHub!
 
